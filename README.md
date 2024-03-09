@@ -12,9 +12,10 @@ Le code prend en entrée une expression logique au format textuel et retourne si
 Il est possible de tester le code avec différentes expressions logiques en modifiant la variable "exp" dans le code.
 # Comment Utiliser le Programme
 #### Cloner le Référentiel:
-git clone <url-du-referentiel>
+git clone https://github.com/i0code/algorithme-de-resolution.git
 #### Exécuter le Programme :
-
+cd algorithme-de-resolution
+python Resolution.py
 # Exemples d'utilisation
 #### A & B & ~C & C  - non valid.
 #### ~((~P | ~Z | R) & (~R) & P & (~T | Z) & T) - valid.
