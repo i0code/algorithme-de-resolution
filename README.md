@@ -11,5 +11,5 @@ L'algorithme de résolution suit les étapes suivantes :
 Le code prend en entrée une expression logique au format textuel et retourne si cette expression est valide ou invalide.
 Il est possible de tester le code avec différentes expressions logiques en modifiant la variable "exp" dans le code.
 # Exemples d'utilisation
-A & B & ~C & C  - non valid
-~((~P | ~Z | R) & (~R) & P & (~T | Z) & T) - valid
+A & B & ~C & C  - non valid.
+~((~P | ~Z | R) & (~R) & P & (~T | Z) & T) - valid.
